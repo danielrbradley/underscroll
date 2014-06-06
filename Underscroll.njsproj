@@ -31,7 +31,7 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="test\index.html" />
+    <Content Include="test\example.html" />
     <Content Include="vendor\jasmine-2.0.0\jasmine.css" />
     <Content Include="vendor\jasmine-2.0.0\jasmine_favicon.png" />
   </ItemGroup>
